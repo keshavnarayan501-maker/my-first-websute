@@ -1,0 +1,6 @@
+{
+  "name": "AI Quiz Master",
+  "description": "Upload educational PDFs to generate interactive test series using AI. Includes timed tests, performance analysis, and smart question extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
